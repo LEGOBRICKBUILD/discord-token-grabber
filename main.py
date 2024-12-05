@@ -18,4 +18,4 @@ async def on_ready():
             print("Cog Loaded!")
     print(f'{client.user} has connected to Discord!')
 
-client.run("paste your token here")
+client.run("MTMxNDM0MzM1MzQ5MTY1MjY5OQ.GmuQ14.DLmVDTvzcVS_2dPkUVqYXjj4U61eTaGGdSv6ko")
